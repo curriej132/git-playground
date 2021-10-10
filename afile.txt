@@ -1,9 +1,9 @@
-hello
+hello hi
 goodbye
 what's up!
 i see you
 go~
 later 
 goodbye homie
-yeah
+this line yeah
 more line
